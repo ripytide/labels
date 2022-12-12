@@ -1,6 +1,6 @@
 [package]
 name = "labels"
-version = "0.0.1"
+version = "0.0.2"
 authors = ["James Forster <james.forsterer@gmail.com>"]
 edition = "2021"
 description = """
@@ -8,10 +8,10 @@ This crate provides labels for functions to document their test
 status:
 tested, untested, parent_tested...
 """
-documentation = "https://docs.rs/test_labels"
+documentation = "https://docs.rs/labels"
 readme = "README.md"
-homepage = "https://github.com/ripytide/test_labels"
-repository = "https://github.com/ripytide/test_labels"
+homepage = "https://github.com/ripytide/labels"
+repository = "https://github.com/ripytide/labels"
 license = "AGPL-3.0-or-later"
 keywords = ["labels"]
 
