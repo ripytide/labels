@@ -3,6 +3,14 @@
 version = 3
 
 [[package]]
+name = "labels"
+version = "0.0.2"
+dependencies = [
+ "quote",
+ "syn",
+]
+
+[[package]]
 name = "proc-macro2"
 version = "1.0.47"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -29,14 +37,6 @@ dependencies = [
  "proc-macro2",
  "quote",
  "unicode-ident",
-]
-
-[[package]]
-name = "test_labels"
-version = "0.0.1"
-dependencies = [
- "quote",
- "syn",
 ]
 
 [[package]]
